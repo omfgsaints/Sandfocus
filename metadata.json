@@ -1,0 +1,6 @@
+{
+  "name": "SandFocus",
+  "description": "Relaxing kinetic sand art focus timer that turns your phone into a meditative Zen sand table carving hypnotic patterns synced to your session.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
